@@ -1,0 +1,153 @@
+* {
+  font-family: 'lato' , sans-serif;
+}
+
+
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: #f6f9f9;
+  padding: 25px 100px;
+}
+
+#cta {
+  background-image: url(../img/network.jpg);
+  height: 800px;
+  text-align: center;
+}
+
+#cta h1 {
+  color: #ffffff;
+  font-size: 120px;
+  font-weight: bold;
+  line-height: 47px;
+  margin-bottom: 60px;
+  margin-top: 0;
+  padding-top: 225px;
+  text-align: center;
+}
+
+#cta hr {
+  border-color: #15a4fa;
+  margin: 0 auto;
+  width: 50%
+}
+
+#cta h2 {
+  color: #ffffff;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 47px;
+	text-align: center;
+}
+
+#cta button {
+  background-color: transparent;
+  border-right: transparent;
+  border-bottom: transparent;
+  border-top: 1px solid #15a4fa;
+  border-left: 1px solid #15a4fa;
+  border-radius: 2px;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px 15px;
+}
+
+#cta a {
+  color: #fff;
+  display: inline-block;
+  margin-top: 100px;
+}
+
+#info {
+  BACKGROUND-color: #E3E6E6;
+  padding: 50px;
+  text-align: center;
+
+}
+
+#info h1 {
+  color: #2d3950;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+#info p {
+  color: #999999;
+  font-weight: 400;
+	line-height: 32px;
+	margin: 0 auto;
+	width:74%;
+}
+
+#cta img {
+  width: 35px;
+  height: 35px;
+}
+
+.box img {
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+}
+
+div.box {
+  display: inline-block;
+  padding: 40px;
+  margin: 80PX 0;
+
+}
+#features {
+  text-align: center;
+}
+
+div.show img {
+  width: 300px;
+  height: 200px;
+  margin: 10px 50px;
+
+}
+
+.show {
+  background-color: #E3E6E6;
+  padding-top: 25px;
+}
+
+.foot {
+  background-image: url(../img/footer3.png);
+  margin-top: 0;
+  text-align: center;
+  height: 500px;
+
+}
+
+.foot h1 {
+  color: #fff;
+  padding: 30px;
+
+}
+
+.foot p {
+  color: #fff;
+}
+
+.form {
+  display: block;
+  background-color: transparent;
+  border-radius: 2px;
+  font-size: 16px;
+  margin: 10px auto;
+  padding: 10px;
+  width: 30%;
+  border: 1px solid #f6f9f9;
+}
+
+.signin {
+  border-radius: 2px;
+  background-color: transparent;
+  color: #fff;
+  padding: 5px 10px;
+
+}
